@@ -15,4 +15,4 @@
  ⚡ Fun fact: I spent the entirety of my elementary school years as an unspoken tech specialist assitant at every school I went to.
 
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=darkwolfxj&hide_title=true)](https://github.com/darkwolfxj/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=hauntgossamer&hide_title=true)](https://github.com/hauntgossamer/github-readme-stats)
