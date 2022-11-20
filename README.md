@@ -4,7 +4,7 @@
 
  🔭 I recently finished making a super compact pastebin type website
  
- 🌱 I’m currently creating an all new customizable chat app, in hopes of competing with Discord if I manage to make it scalable!
+ 🌱 I’m currently creating creating a "True Random" feeling algorithm for shuffling songs!
  
  👯 I’m looking to collaborate on anything that can make an impact on any individual's or groups' life/lives
  
