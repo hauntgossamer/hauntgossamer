@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-### I'm Haunt
+### I'm Haunt (Yes that is my legal name :D)
 
- 🔭 I recently finished making a super compact pastebin type website
+ 🔭 I recently completed an introductory C++ course and dived into app development using .NET MAUI!
  
- 🌱 I’m currently creating creating a "True Random" feeling algorithm for shuffling songs!
+ 🌱 I’m currently learning RayLib, C and reverse engineering, as well as creating an App for my business!
  
- 👯 I’m looking to collaborate on anything that can make an impact on any individual's or groups' life/lives
+ 👯 I’m working on becoming an asset for a private underground game restoration team
  
- 🤔 I’m looking for help with my job search
+ 🤔 I’m looking for a way to break into the tech space at entry level
  
  💬 Ask me about my love for Python
  
