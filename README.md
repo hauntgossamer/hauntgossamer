@@ -1,12 +1,6 @@
 ### Hi there 👋
 
 ### I'm Haunt (Yes that is my legal name :D)
-
- 🔭 I recently completed an introductory C++ course and dived into app development using .NET MAUI!
- 
- 🌱 I’m currently learning RayLib, C and reverse engineering, as well as creating an App for my business!
- 
- 👯 I’m working on becoming an asset for a private underground game restoration team
  
  🤔 I’m looking for a way to break into the tech space at entry level
  
